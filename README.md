@@ -12,3 +12,7 @@
 ```
 - Update [helloWorld.html](helloWorld.html)
 - Update [helloWorld.txt](helloWorld.txt)
+
+## Set up an HTML Document
+
+- Create [install-extension.html](install-extension.html)
