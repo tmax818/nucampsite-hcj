@@ -16,3 +16,7 @@
 ## Set up an HTML Document
 
 - Create [install-extension.html](install-extension.html)
+
+## Adding to the HTML Body
+
+- 
