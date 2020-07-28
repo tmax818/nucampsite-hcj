@@ -21,3 +21,5 @@
 
 - Update [install-extension.html](install-extension.html)
 - read the comments in order
+
+## Install Live Server Extension(no branch)
