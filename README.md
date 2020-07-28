@@ -26,4 +26,5 @@
 
 ## Anchors
 
+- Update [install-extension.html](install-extension.html)
 - 
