@@ -19,4 +19,5 @@
 
 ## Adding to the HTML Body
 
-- 
+- Update [install-extension.html](install-extension.html)
+- read the comments in order
